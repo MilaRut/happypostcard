@@ -379,10 +379,6 @@ div.userinfo_input textarea {
 	margin-bottom: 20px;
 }
 
-.middle .left section {
-	height: 100%;
-}
-
 .middle label {
 	display: grid;
 	grid-template-columns: 80px auto;
